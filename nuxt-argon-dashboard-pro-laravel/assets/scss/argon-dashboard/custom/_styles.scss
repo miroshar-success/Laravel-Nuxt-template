@@ -1,0 +1,27 @@
+.router-link-exact-active {
+    color: #212529 !important;
+    font-weight: 600 !important;
+}
+
+// Landing Page
+
+.landing-bg {
+    background-image: radial-gradient(circle at bottom right, #3c9add, #191452) !important;
+}
+
+.search-input-table {
+    position: absolute;
+    right: 30px;
+    width: 200px;
+    top: 130px;
+}
+
+.max-content {
+    width: max-content;
+}
+
+.argon-image {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
